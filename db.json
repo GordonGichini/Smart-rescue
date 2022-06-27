@@ -1,0 +1,34 @@
+{
+    "Data": [
+      {
+        "id": 1,
+        "name": "Michael Kamau",
+        "image": "New folder/mech 1.jpg",
+        "contact": "0717654456"
+      }
+      {
+        "id": 2,
+        "name": "Joseph Kinuthia",
+        "image": "New folder/mech.jpg",
+        "contact": "0100897876",
+      
+
+    "Breakdown": 
+        {
+            "id": 3,
+            "name": "Breakdwon Njoro",
+            "image" :"New folder\breakdown.jpg",
+            "contact":"0708477605",
+        },
+        {
+        
+      "Garage 1": 
+      "id": 4,
+      "name": "Durun Garage",
+      "image":"New folder\garage 2.jpg",
+      "contact":"0712354321",
+
+        }
+      }
+    ]
+}
