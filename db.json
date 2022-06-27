@@ -10,8 +10,9 @@
         "id": 2,
         "name": "Joseph Kinuthia",
         "image": "New folder/mech.jpg",
-        "contact": "0100897876",
-      
+        "contact": "0100897876"
+      }
+      {
 
     "Breakdown": 
         {
@@ -19,16 +20,8 @@
             "name": "Breakdwon Njoro",
             "image" :"New folder\breakdown.jpg",
             "contact":"0708477605",
-        },
-        {
-        
-      "Garage 1": 
-      "id": 4,
-      "name": "Durun Garage",
-      "image":"New folder\garage 2.jpg",
-      "contact":"0712354321",
+        }
 
         }
-      }
     ]
-}
+    }

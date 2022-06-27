@@ -24,11 +24,6 @@ window.addEventListener('scroll', () => {
     Header.classList.toggle('shadow', window.scroll > 0);
 });
 
-module.exports = () => {
-    const data = { users: [] }
-    // Create 1000 users
-    for (let i = 0; i < 1000; i++) {
-      data.users.push({ id: i, name: `user${i}` })
-    }
-    return data
-  }
+//API 
+let Contact = document.querySelector(h2)
+function getContact(click,h2)
